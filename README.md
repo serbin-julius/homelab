@@ -19,7 +19,7 @@ The goal of this system is:
 
 ## Storage
 - Host mounts physical disk -> '/data'
-- LXCs bind-mount required subpaths form '/data'
+- LXCs bind-mounts required subpaths form '/data'
 - Ownership differs between privileged and unprivileged containers
 
 ## Networking
